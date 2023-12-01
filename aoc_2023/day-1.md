@@ -63,9 +63,9 @@ const trebuchet =(filePath) => {
 const filePath = process.argv[2];
 trebuchet(filePath);
 ```
-Usage:
-```sh
-node ./scripts/aoc_2023_day-1_part-1.js './data/data_day-1_part-1.txt'
+##### Usage:
+```sh 
+node ./aoc_2023/scripts/day-1_p1.js './aoc_2023/data/day-1_p1.txt'
 ```
 
-[View file](./scripts/aoc_2023_day-1_part-1.js) [View data](./data/data_day-1_part-1.txt)
+[View file](./scripts/day-1_p1.js) [View data](./data/day-1_p1.txt)

@@ -1,5 +1,3 @@
-// Run code with command: node ./aoc_2023/scripts/aoc_2023_day-1_part-1.js './aoc_2023/data/data_day-1_part-1.txt'
-
 const fs = require('fs');
 
 /// Part 1

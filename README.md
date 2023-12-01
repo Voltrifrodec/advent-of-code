@@ -4,7 +4,7 @@ Solutions of the [Advent of Code](https://adventofcode.com/) challenges.
 ## 2023
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 48   | ➖  | ➖ |  ➖ | ➖ | 1<sub>[⭐✰](./aoc_2023/aoc_2023_day-1.md)</sub> | 2 | 3 | 
+| 48   | ➖  | ➖ |  ➖ | ➖ | 1<sub>[⭐✰](./aoc_2023/day-1.md)</sub> | 2 | 3 | 
 | 49   |  4 |  5 |  6 |  7 |  8 |  9 | 10 |
 | 50   | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 51   | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
